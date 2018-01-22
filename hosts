@@ -1,1 +1,4 @@
-hosts
+[webserver]
+192.168.0.11
+[dbserver]
+192.168.0.12
